@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "primer_p.2d4f72c5\\x64\\Debug\\main.obj",
+            "outputs": [
+                "primer_p.2d4f72c5\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "primer_p.2d4f72c5\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

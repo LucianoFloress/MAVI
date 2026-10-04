@@ -25,7 +25,7 @@ int main(void)
 			DrawText("Hola mundo!", 265, 350, 50, RED);
 		}
 		else {
-			DrawText("Estoy aprediendo en MAVI!", 60, 350, 50, RED);
+			DrawText("Estoy aprediendo en MAVI!", 60, 350, 50, BLACK);
 		}
 		EndDrawing();
 	}

@@ -27,6 +27,10 @@ int main(void)
 
 		DrawText(TextFormat("Rebotes: %i", contador), 845, 740, 30, { 0, 0, 0, 255 });
 
+		DrawText(TextFormat("Posicion: %.2f, %.2f", posicion.x, posicion.y), 10, 740, 20, { 0, 0, 0, 255 });
+
+		DrawText(TextFormat("Resolucion: %ix%i", GetScreenWidth(), GetScreenHeight()), 10, 710, 20, { 0, 0, 0, 255 });
+
 		if (posicion.y > 718)
 		{
 			velocidad.y = -velocidad.y;

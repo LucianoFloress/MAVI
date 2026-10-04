@@ -12,7 +12,7 @@ int main(void)
 	while (!WindowShouldClose())
 	{
 		BeginDrawing();
-		ClearBackground({0,255,255});
+		ClearBackground({ 0,255,255 });
 
 		//(x, y, tamaño, color)
 		DrawText("Luciano Flores", 220, 250, 50, DARKGRAY);

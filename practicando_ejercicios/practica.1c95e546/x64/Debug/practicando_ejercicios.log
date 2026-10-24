@@ -1,0 +1,18 @@
+﻿  practicando_ejercicios.cpp
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(342,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(342,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(380,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(380,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(388,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(388,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(411,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(411,77): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(411,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(411,34): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(412,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(412,77): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(412,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(412,34): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(415,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\practicando_ejercicios.cpp(415,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  practicando_ejercicios.vcxproj -> C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\practicando_ejercicios\x64\Debug\practicando_ejercicios.exe

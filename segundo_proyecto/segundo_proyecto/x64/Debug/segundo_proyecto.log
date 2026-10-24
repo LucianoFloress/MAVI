@@ -1,0 +1,5 @@
+﻿  segundo_proyecto.cpp
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\segundo_proyecto\segundo_proyecto.cpp(26,34): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\segundo_proyecto\segundo_proyecto.cpp(26,22): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  segundo_proyecto.vcxproj -> C:\Users\kunla\Desktop\Facu\Modelos y Algoritmos para Videojuegos I\GitHub\segundo_proyecto\x64\Debug\segundo_proyecto.exe
